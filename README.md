@@ -31,3 +31,5 @@ The problem of detecting fake faces vs real/legitimate faces is treated as a bin
 ## Further work
 1. Gathering data having a larger set of ethnicity and different types of fake/spoofed photos.
 2. Adding more heuristics to team up with deep-learning.
+
+# https://dinesh-raina.github.io/Liveness_FaceDetection/.
